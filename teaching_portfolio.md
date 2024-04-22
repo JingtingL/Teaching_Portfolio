@@ -8,3 +8,7 @@ Instruction on how to use snap code to draw a house: [link](https://youtu.be/6TN
 Introducing REPEATS with Snap: [link](https://youtu.be/WAAPV-FeioI)
 
 Code Explanation: [link](https://youtu.be/eyvwMhV8rE0) 
+
+## Week 3
+Nested Loop Introduction: [link](https://youtu.be/zkMNE0S2-iU)
+
