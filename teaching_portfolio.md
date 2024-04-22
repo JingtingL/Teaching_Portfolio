@@ -12,3 +12,4 @@ Code Explanation: [link](https://youtu.be/eyvwMhV8rE0)
 ## Week 3
 Nested Loop Introduction: [link](https://youtu.be/zkMNE0S2-iU)
 
+Introducing how to write a program [link](https://youtu.be/OsW0qhXQkGM)
