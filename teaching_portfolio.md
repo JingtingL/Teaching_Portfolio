@@ -16,3 +16,5 @@ Introducing how to write a program [link](https://youtu.be/OsW0qhXQkGM)
 
 ## Week 4
 Introduction to Variables in Programming: [link](https://youtu.be/QwzJbBDO2_Q)
+
+Drawing a star [link](https://youtu.be/iK93ZgCdZH4)
