@@ -13,3 +13,6 @@ Code Explanation: [link](https://youtu.be/eyvwMhV8rE0)
 Nested Loop Introduction: [link](https://youtu.be/zkMNE0S2-iU)
 
 Introducing how to write a program [link](https://youtu.be/OsW0qhXQkGM)
+
+## Week 4
+Introduction to Variables in Programming: [link](https://youtu.be/QwzJbBDO2_Q)
