@@ -20,3 +20,4 @@ Introduction to Variables in Programming: [link](https://youtu.be/QwzJbBDO2_Q)
 Repeats [link](https://youtu.be/ntqBrp-lLcE)
 
 ## Week 5
+Introducing Conditional Loops: [link](https://youtu.be/0Pxswkc46tw)
