@@ -21,3 +21,6 @@ Repeats [link](https://youtu.be/ntqBrp-lLcE)
 
 ## Week 5
 Introducing Conditional Loops: [link](https://youtu.be/0Pxswkc46tw)
+
+## Week 6
+Introduction to If-Else, If: [link](https://youtu.be/zFVmEtcm0y8)
