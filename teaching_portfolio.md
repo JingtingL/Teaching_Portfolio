@@ -24,3 +24,6 @@ Introducing Conditional Loops: [link](https://youtu.be/0Pxswkc46tw)
 
 ## Week 6
 Introduction to If-Else, If: [link](https://youtu.be/zFVmEtcm0y8)
+
+## Week 7 
+Introduction to Nested If-Else Statements: [link](https://youtu.be/qYTFTZHX-rU?si=M62Y1UUqF0qIoLhf)
