@@ -27,3 +27,6 @@ Introduction to If-Else, If: [link](https://youtu.be/zFVmEtcm0y8)
 
 ## Week 7 
 Introduction to Nested If-Else Statements: [link](https://youtu.be/qYTFTZHX-rU?si=M62Y1UUqF0qIoLhf)
+
+## Week 8 
+Introduction to compound conditionals: [link](https://youtu.be/iCebuHxDuB8)
