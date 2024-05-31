@@ -30,3 +30,6 @@ Introduction to Nested If-Else Statements: [link](https://youtu.be/qYTFTZHX-rU?s
 
 ## Week 8 
 Introduction to compound conditionals: [link](https://youtu.be/iCebuHxDuB8)
+
+# Week 9
+Introduction to creating your own block: [link](https://youtu.be/01nnrsDuJ7o)
